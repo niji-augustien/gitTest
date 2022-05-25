@@ -1,9 +1,5 @@
 Apple Pie
 
-<<<<<<< HEAD
 flour
 sugar
 salt
-=======
-oil
->>>>>>> ideas
